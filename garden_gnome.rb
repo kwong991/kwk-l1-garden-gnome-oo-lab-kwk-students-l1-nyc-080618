@@ -15,4 +15,4 @@ class Garden_Gnome
 
 end
 
-Garden_Gnome.new('gluten_allergy')
+Garden_Gnome.new=garden_gnome('gluten_allergy')
