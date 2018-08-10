@@ -51,3 +51,4 @@ end
 
 
 hat_color=Garden_Gnome.new('red')
+gnome1=Garden_Gnome.new
