@@ -1,5 +1,5 @@
 # Code your instances here
-class GardenGnome 
+class Garden_Gnome 
   def initialize(name, age)
     @name=name
     @age=age
@@ -14,3 +14,5 @@ class GardenGnome
   end
 
 end
+
+Garden_Gnome.new
