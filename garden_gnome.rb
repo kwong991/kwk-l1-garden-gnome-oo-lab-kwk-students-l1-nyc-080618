@@ -5,12 +5,12 @@ class Garden_Gnome
     @age=age
   end
   
-  def name
-    @name
+  def name(new_name)
+    @name=(new_name)
   end
   
-  def age
-    @age
+  def age(new_age)
+    @age=(new_age)
   end
 
 end
