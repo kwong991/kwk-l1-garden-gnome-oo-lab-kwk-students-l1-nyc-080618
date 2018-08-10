@@ -31,6 +31,10 @@ def hat_color=(new_hat_color)
   @hat_color=new_hat_color
 end
 
+def hat_color
+  @hat_color
+end
+
 def gnaw
   puts "Gnawing on a tree!!!"
 end
