@@ -23,8 +23,16 @@ class Garden_Gnome
     @age=(new_age)
   end
 
-def gluten_allergy=new_gluten_allergy
+def gluten_allergy=(new_gluten_allergy)
+  @gluten_allergy=new_gluten_allergy
   end
+  
+def hat_color=(new_hat_color)
+  @hat_color=new_hat_color
+end
+end
+
+def
 end
 
 hat_color=Garden_Gnome.new('red')
