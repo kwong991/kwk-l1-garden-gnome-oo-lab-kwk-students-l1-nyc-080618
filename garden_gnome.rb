@@ -38,9 +38,9 @@ end
 def shout
   puts "GNARLY!!!"
 end
+
+
 end
 
-def
-end
 
 hat_color=Garden_Gnome.new('red')
