@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome 
-  def initialize(name)
+  def initialize(name, age)
     @name=name
   end
   
