@@ -27,4 +27,4 @@ def gluten_allergy=new_gluten_allergy
   end
 end
 
-hat_color
+hat_color=Garden_Gnome.new()
