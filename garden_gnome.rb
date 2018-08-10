@@ -1,9 +1,18 @@
 # Code your instances here
 class Garden_Gnome 
   def initialize(name, age)
-    @name=name
-    @age=age
+
     @gluten_allergy=gluten_allergy
+  end
+  
+  def name
+    @name
+  end 
+  #reader 
+  
+  
+  def age
+    @age
   end
   
   def name(new_name)
