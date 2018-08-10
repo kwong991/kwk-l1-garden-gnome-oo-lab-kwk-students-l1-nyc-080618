@@ -30,6 +30,14 @@ def gluten_allergy=(new_gluten_allergy)
 def hat_color=(new_hat_color)
   @hat_color=new_hat_color
 end
+
+def gnaw
+  puts "Gnawing on a tree!!!"
+end
+
+def shout
+  puts "GNARLY!!!"
+end
 end
 
 def
