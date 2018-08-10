@@ -47,12 +47,10 @@ end
 def introduce_self
   return "Hello humans, my name is #{name}, I am #{age} years old, and you'll rue the day you crossed me!"
 end
-def gnome1
-  @gnome1
-end
+
 
 end
 
 
 hat_color=Garden_Gnome.new('red')
-gnome1=Garden_Gnome.new
+
