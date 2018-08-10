@@ -1,8 +1,8 @@
 # Code your instances here
 class Garden_Gnome 
-  def initialize(name, age)
-
-    @gluten_allergy=gluten_allergy
+  
+  def initialize(hat_color)
+   @personality='evil'
   end
   
   def name
@@ -23,7 +23,8 @@ class Garden_Gnome
     @age=(new_age)
   end
 
+def gluten_allergy=new_gluten_allergy
+  end
 end
 
-new_garden_gnome=Garden_Gnome.new('gluten_allergy')
-puts new_garden_gnome.gluten_allergy
+hat_color
