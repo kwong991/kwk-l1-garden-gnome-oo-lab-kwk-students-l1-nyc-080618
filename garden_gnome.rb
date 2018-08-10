@@ -28,4 +28,3 @@ def gluten_allergy=new_gluten_allergy
 end
 
 hat_color=Garden_Gnome.new('red')
-puts 
