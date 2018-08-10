@@ -15,4 +15,4 @@ class Garden_Gnome
 
 end
 
-Garden_Gnome.new
+Garden_Gnome.new()
